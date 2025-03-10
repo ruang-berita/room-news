@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ruang-berita.github.io/room-news/.xml
